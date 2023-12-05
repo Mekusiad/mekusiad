@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on RocketSeat.
 - 🌱 I’m currently learning HTML5, CSS3, NODE.js, JavaScript.
 - 🤔 I’m looking for help with REACT, 
 - 💬 Ask me about foods...
